@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nigam Sahab
+# 👋 Hi, I'm Hurshit Nigam
 
 💻 Full Stack Developer | MERN Stack | DSA Enthusiast  
 🚀 Currently building meaningful projects and preparing for placements  
